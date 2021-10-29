@@ -1,0 +1,13 @@
+Adulte,Quelle est la chaine de montagne qui sépare l'Inde de la Chine ?,Himalayas,1
+Adulte,En Egypte quel est le cour d'eau qui relie la Médditeranée à la mer rouge ?,Canal de Suez,1
+Adulte,Quel est le plus haut pic d'Europe ?,Mont Blanc,2
+Adulte,Quel est le pays le plus peuplé ?,Chine,2
+Adulte,Quelle est la plus longue rivière du monde ?,Nile,3
+Adulte,Quelle est la longueur du litorale Algerien (en km) ?,1200,3
+Adulte,Quel est l'état Americain le plus vaste ?,Alaska,4
+Adulte,Dans quel pays parle t'on l'Afrikains et l'Anglais ?,Afrique du Sud,5
+Enfant,Sur quel continent se situe le Japon ?,Asie,1
+Enfant,Quelle est la capitale de l’Espagne ?,Madrid,2
+Enfant,Dans quelle ville se trouve le célèbre pont appelé « Tower Bridge » ? ,Londres,3
+Enfant,La capitale de la République populaire de Chine est :,Pékin,4
+Enfant,En Écosse un lac porte le nom de :,Loch,5

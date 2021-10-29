@@ -1,0 +1,12 @@
+Adulte,En quelle année s'est déclanchée la seconde guerre mondiale ?,1939,1
+Adulte,Quelle est la personalité francaise ayant prononcé la célèbre phrase "Je vous ai compris" en 1958 ?,Charles De Gaulle,2
+Adulte,En quelle année a eu lieu la destruction du mur de Berlin ?,1989,2
+Adulte,A la suite de quelle guerre le 2 Korées se sont séparée ?,Seconde guerre mondiale,3
+Adulte,Que signifient les initiales OAS dans l'histoire Algerienne ?,Organisation Armee Secrete,3
+Adulte,Dans quel océan a sombré le Titanic ?,Atlantique,4
+Adulte,Où s'est déroulé la bataille de Culluden en 1746 ?,Écosse,5
+Enfant,En quelle année a débuté la guerre de libération nationalle algerienne ?,1954,1
+Enfant,En quelle année le premier homme est allé sur la lune ?,1969,2
+Enfant,Qui fut le quarantième président des USA ?,Ronald Reagan,3
+Enfant,En quelle année s'est achevé la seconde guerre mondiale ?,1945,4
+Enfant,En quelle année Hitler arrive-t-il au pouvoir en Allemagne ?,1933,5

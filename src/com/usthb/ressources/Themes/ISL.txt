@@ -1,0 +1,10 @@
+Adulte,De combien de Sourat est composé le Coran ?,286,1
+Adulte,Quelle est la ville qui abrite les lieux saints des 3 principales religions ?,Jerusalem,2
+Adulte,Qui est le seul calif décède de mort naturelle ?,Abou BakrEssediq,3
+Adulte,Quel est le premier mois du calendrier lunaire ?,Muharram,4
+Adulte,Dans quel pays se trouve la plus grande population de musulmans ?,Indonesie,5
+Enfant,Quel est l'ange que Dieu a envoyé à Mohamed ?,Gabriel,1
+Enfant,Dans quelle ville se trouve la Kaaba ?,Mecca,2
+Enfant,Combien de noms a Dieu ?,99,3
+Enfant,Quelle est l'eau envoyée par Dieu en Arabie saoudite ?,Zam Zam,4
+Enfant,Quelle est première oura du Coran ?,Al Fatihah,5

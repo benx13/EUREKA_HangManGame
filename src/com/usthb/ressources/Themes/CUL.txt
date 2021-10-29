@@ -1,0 +1,18 @@
+Adulte,Quel est le pays natal de Wolfgang Amadeus Mozart ?,Autriche,1
+Adulte,Qui est la deuxième personne qui a mis un pied sur la lune ?,Edwin Buzz Aldrin,1
+Adulte,Quel peuple a inventé la poudre à canon ?,Les Chinois,1
+Adulte,Qui a découvert la Pénicilline ?,Alexander Fleming,2
+Adulte,Quel est le nom qui a été donne au plus ancien skelete d'australopitheque découvert ?,Lucy,2
+Adulte,Quel politicien a inventé le sandwich ?,John Montagu,3
+Adulte,Dans la mythologie gréco-romaine les dieux se réunissent sur ...,Le Mont Olympe,3
+Adulte,Dans la mythologie grecque comment s’appellent les géants dotés d’un seul œil au milieu du front ?,Les Cyclopes,4
+Adulte,Héraclès ou Hercule est le fils de ...,Zues,4
+Adulte,combien de cœurs a une pieuvre?,3,5
+Adulte,Le breuvage des dieux grecs est :,Le Nectar,5
+Enfant,Quel animal marin appelle t'on le chaval de mer ?,Hippocampe,1
+Enfant,Qui est l'auteur des Miserables ?,Victor Hugo,1
+Enfant,Qui raconte les aventures de Sherlock Holmes ?,John Watson,2
+Enfant,Qui est le dieu du Soleil dans l'ancienne Egypte ?,Ra,3
+Enfant,Complétez ce célèbre slogan "... Coca-cola",Always,3
+Enfant,Quelle ville a construit le premier métro ?,Londres,4
+Enfant,Qui a mis le premier le pied sur la Lune ?,Neil Armstrong,5

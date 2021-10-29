@@ -1,0 +1,11 @@
+Adulte,Quelle vitamine aide à la fixation du calcium sur les os ?,D,1
+Adulte,Quelle maladie infantile est causée par un manque en vitaine D ?,Rachitisme,2
+Adulte,Quel est l'os le plus long du corp humain ?,Fémur,2
+Adulte,Quelle maladie grâve est causée par la sur-exposition au soleil ?,Cancer de la peau,3
+Adulte,Quele est la bactérie résponsable de la tuberculose ?,Bacille de Koch,4
+Adulte,Quelle est l'hormone qui aide au sommeil ?,Melatonine,5
+Enfant,Avec quel instrument mesure t'on la température du corp ?,Thermometre,1
+Enfant,Ou va t'on lorsequ'on est malade ?,Hopital,2
+Enfant,Comment appelle t'on la dentition des enfants ?,Dents de lait,3
+Enfant,Quelle est le nom de la maladie qui touche les enfants et donne des petits boutons rouges sur le corps ?,Varicelle,4
+Enfant,Quel nom donne-t-on à une personne qui donne son sang ?,Donneur de sang,5
